@@ -1,0 +1,211 @@
+1st page of Project
+
+ 
+
+<h1> this a project about <b>CRUD</b> operation using 
+Php,,MysQL,HTML,css,bootstrap 4.0</h1>
+
+
+                        Let's get started
+               
+           button
+
+
+
+ Logo	                  Navbar
+# Debtor Part
+    *Add new debtor ->
+     *All debtor List
+     *Update debtor info
+     *Expired debtor list
+
+# Thrifty Part
+    *Add new thrifty
+     *All thrifty List
+     *Update thrifty info
+     *Matured thrifty list
+	
+                       Debtor Registration form
+
+
+
+                           Footer
+
+
+
+
+ Logo	                  Navbar
+# Debtor Part
+    *Add new debtor 
+     *All debtor List ->
+     *Update debtor info
+     *Expired debtor list
+
+# Thrifty Part
+    *Add new thrifty
+     *All thrifty List
+     *Update thrifty info
+     *Matured thrifty list
+	
+                                                All Debtor List
+#	Full name	Amount	Payment	Duration	Loan date	Action
+1						
+view
+
+2						
+3						
+4						
+#	Full name
+	Amount	Duration	Payment	Laon date	Action
+
+
+                             Footer                           
+Logo	                  Navbar
+# Debtor Part
+    *Add new debtor 
+     *All debtor List
+     *Update debtor info ->
+     *Expired debtor list
+
+# Thrifty Part
+    *Add new thrifty
+     *All thrifty List
+     *Update thrifty info
+     *Matured thrifty list
+	
+                                                Update Debtor List
+#	Full name	Amount	Payment	Duration	Loan date	Action
+1						
+Update
+
+2						Update
+3						Update
+4						button
+#	Full name
+	Amount	Duration	Payment	Laon date	Action
+
+
+                                Footer
+Logo	                  Navbar
+# Debtor Part
+    *Add new debtor 
+     *All debtor List
+     *Update debtor info
+     *Expired debtor list ->
+
+# Thrifty Part
+    *Add new thrifty
+     *All thrifty List
+     *Update thrifty info
+     *Matured thrifty list
+	
+                                                Expired Debtor List
+#	Full name	Amount	Payment	Duration	Loan date	Action
+1						
+details
+
+2						details
+3						details
+4						details
+#	Full name
+	Amount	Duration	Payment	Laon date	Action
+
+
+                                Footer
+Logo	                  Navbar
+# Debtor Part
+    *Add new debtor 
+     *All debtor List
+     *Update debtor info
+     *Expired debtor list
+
+# Thrifty Part
+    *Add new thrifty ->
+     *All thrifty List
+     *Update thrifty info
+     *Matured thrifty list
+	
+                       Thrifty Registration form
+
+
+
+                           Footer
+
+Logo	                  Navbar
+# Debtor Part
+    *Add new debtor 
+     *All debtor List
+     *Update debtor info
+     *Expired debtor list 
+
+# Thrifty Part
+    *Add new thrifty
+     *All thrifty List ->
+     *Update thrifty info
+     *Matured thrifty list
+	
+                                                All Thrifty List
+#	Full name	Amount	Payment	Duration	   Date	Action
+1						
+details
+
+2						details
+3						details
+4						details
+#	Full name
+	Amount	Duration	Payment	Laon date	Action
+
+
+                                Footer
+Logo	                  Navbar
+# Debtor Part
+    *Add new debtor 
+     *All debtor List
+     *Update debtor info
+     *Expired debtor list 
+
+# Thrifty Part
+    *Add new thrifty
+     *All thrifty List
+     *Update thrifty info->
+     *Matured thrifty list
+	
+                                                Update Thrifty List
+#	Full name	Amount	Payment	Duration	Loan date	Action
+1						
+details
+
+2						details
+3						details
+4						details
+#	Full name
+	Amount	Duration	Payment	Laon date	Action
+
+
+                                Footer
+Logo	                  Navbar
+# Debtor Part
+    *Add new debtor 
+     *All debtor List
+     *Update debtor info
+     *Expired debtor list
+# Thrifty Part
+    *Add new thrifty
+     *All thrifty List
+     *Update thrifty info
+     *Matured thrifty list ->
+
+	
+                                                Matured Thrifty List
+#	Full name	Amount	Payment	Duration	Loan date	Action
+1						
+details
+
+2						details
+3						details
+4						details
+#	Full name
+	Amount	Duration	Payment	Laon date	Action
+
+
+                                Footer
